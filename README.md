@@ -4,13 +4,13 @@ Software Engineer
 
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music or playing games.
 
-## 🌍 I'm currently based in Accra, Ghana
-## 🖥️ See my portfolio at [Personal Portfolio🚀](https://melodic-buttercream-b9f2d4.netlify.app/)
-## ✉️ You can contact me at dzokotosolomon85@gmail.com
-## 🚀 I'm currently learning Nodejs,Express and MongoDb
-## 🧠 I like to keep up with new stuffs coming out of the React ecosystem
-## 🤝 I'm open to collaborating on really interesting and challenging projects😎
-## ⚡ I'm a React Lover through and through💚 and You'll always find me preaching its gospel😄
+# 🌍 I'm currently based in Accra, Ghana
+# 🖥️ See my portfolio at [Personal Portfolio🚀](https://melodic-buttercream-b9f2d4.netlify.app/)
+# ✉️ You can contact me at dzokotosolomon85@gmail.com
+# 🚀 I'm currently learning Nodejs,Express and MongoDb
+#🧠 I like to keep up with new stuffs coming out of the React ecosystem
+# 🤝 I'm open to collaborating on really interesting and challenging projects😎
+# ⚡ I'm a React Lover through and through💚 and You'll always find me preaching its gospel😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-dzokoto-10385b31a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BraSolo73) 
