@@ -1,6 +1,6 @@
 # Hi 👋 My name is Solomon Elorm Dzokoto
 
-Software Engineer
+Frontend Developer
 
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music or playing games.
 
