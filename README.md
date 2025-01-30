@@ -5,7 +5,6 @@ Frontend Developer
 I really care about doing great work and improving my craft over time and that's why you'll always find me on my computer taking on new challenges or learning something new and when I'm not doing either of the two, you'll find me listening to good music or playing games.
 
 * 🌍 I'm currently based in Accra, Ghana
-* 🖥️ See my portfolio at [Personal Portfolio🚀](https://wonderful-jelly-92867c.netlify.app)
 * ✉️ You can contact me at dzokotosolomon85@gmail.com
 * 🚀 I'm currently learning Nodejs,Express and MongoDb
 * 🧠 I like to keep up with new stuffs coming out of the React ecosystem
