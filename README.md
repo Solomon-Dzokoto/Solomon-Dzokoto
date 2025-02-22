@@ -6,7 +6,7 @@ I really care about doing great work and improving my craft over time and that's
 
 * 🌍 I'm currently based in Accra, Ghana
 * ✉️ You can contact me at dzokotosolomon85@gmail.com
-* 🚀 I'm currently learning Nodejs,Express and MongoDb
+* 🚀 I'm currently learning Typescript
 * 🧠 I like to keep up with new stuffs coming out of the React ecosystem
 * 🤝 I'm open to collaborating on really interesting and challenging projects😎
 * ⚡ I'm a React Lover through and through💚 and You'll always find me preaching its gospel😄
